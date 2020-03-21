@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/mern-exercise-tracker/static/js/main.672441ff.chunk.js",
+    "main.js.map": "/mern-exercise-tracker/static/js/main.672441ff.chunk.js.map",
+    "runtime-main.js": "/mern-exercise-tracker/static/js/runtime-main.4bf4cb81.js",
+    "runtime-main.js.map": "/mern-exercise-tracker/static/js/runtime-main.4bf4cb81.js.map",
+    "static/css/2.1417c86a.chunk.css": "/mern-exercise-tracker/static/css/2.1417c86a.chunk.css",
+    "static/js/2.1283080c.chunk.js": "/mern-exercise-tracker/static/js/2.1283080c.chunk.js",
+    "static/js/2.1283080c.chunk.js.map": "/mern-exercise-tracker/static/js/2.1283080c.chunk.js.map",
+    "index.html": "/mern-exercise-tracker/index.html",
+    "precache-manifest.71f376cf9dd7933ab2aac478354f9a89.js": "/mern-exercise-tracker/precache-manifest.71f376cf9dd7933ab2aac478354f9a89.js",
+    "service-worker.js": "/mern-exercise-tracker/service-worker.js",
+    "static/css/2.1417c86a.chunk.css.map": "/mern-exercise-tracker/static/css/2.1417c86a.chunk.css.map",
+    "static/js/2.1283080c.chunk.js.LICENSE.txt": "/mern-exercise-tracker/static/js/2.1283080c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bf4cb81.js",
+    "static/css/2.1417c86a.chunk.css",
+    "static/js/2.1283080c.chunk.js",
+    "static/js/main.672441ff.chunk.js"
+  ]
+}
